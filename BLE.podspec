@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "臧其龙" => "zangqilong@icloud.com" }
+  s.author             = { "makeblock" => "www.makeblock.cc" }
   # Or just: s.author    = "臧其龙"
   # s.authors            = { "臧其龙" => "zangqilong@icloud.com" }
   # s.social_media_url   = "http://twitter.com/臧其龙"
